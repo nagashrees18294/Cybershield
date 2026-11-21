@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield — Log Pattern Analyzer",
+  "description": "Compiler-design cybersecurity log analyzer featuring lexical, syntax, and semantic analysis, intermediate code generation, and unified threat detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
